@@ -23,6 +23,6 @@ VALUES ("Adidas Superstar Shoes", "Shoes", 69.99, 201),
 ("Blue Sports Drink", "Grocery", 1.50, 1819),
 ("Filet Mignon", "Grocery", 11.11, 2),
 ("Left Handed Scissors", "Tools", 12.63, 101),
-("Mirah Carey Tickets", "Concerts", 209.97, 148),
+("Mariah Carey Tickets", "Concerts", 209.97, 148),
 ("Gold Watch", "Accessories", 2055.51, 3),
 ("Golf Clubs", "Sports", 1234.56, 28)
